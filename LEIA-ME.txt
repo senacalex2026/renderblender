@@ -1,0 +1,5 @@
+01_Modelos: .fbx/.obj/.glb
+02_Materiais: uma subpasta por material (Nome_BaseColor.png, Nome_Roughness.png...)
+03_Iluminacao_HDRI: .hdr/.exr
+04_Renders_Finais: saida dos renders
+Edite project_config.json e rode stager_blender.py de novo no Blender.

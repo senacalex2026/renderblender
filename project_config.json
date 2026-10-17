@@ -1,0 +1,15 @@
+{
+    "hdri": "01_renderalexdesign_4k.exr",
+    "hdri_rotacao": 0.0,
+    "hdri_forca": 1.0,
+    "fundo_transparente": false,
+    "preset": "final",
+    "resolucao": [
+        1920,
+        1080
+    ],
+    "limite_textura_viewport": "2048",
+    "limite_textura_render": "2048",
+    "importar_modelos": true,
+    "criar_materiais": true
+}
